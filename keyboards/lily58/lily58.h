@@ -6,6 +6,4 @@
     #include "light.h"
 #elif KEYBOARD_lily58_glow_enc
     #include "glow_enc.h"
-#elif KEYBOARD_lily58_andreguzman
-    #include "andreguzman.h"
 #endif
