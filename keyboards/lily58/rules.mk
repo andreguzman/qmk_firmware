@@ -14,4 +14,4 @@ OLED_ENABLE = yes
 OLED_DRIVER = SSD1306    # OLED display
 SPLIT_KEYBOARD = yes
 
-DEFAULT_FOLDER = lily58/andreguzman # use my personal keymap as the default
+DEFAULT_FOLDER = lily58/rev1
