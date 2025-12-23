@@ -1,4 +1,4 @@
-#include "andreguzman.h"
+#include "quantum.h"
 
 // Mask out handedness diode to prevent it
 // from keeping the keyboard awake

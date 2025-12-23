@@ -20,9 +20,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
-/* Select hand configuration */
-
-#define MASTER_LEFT  // Fallback if sidedness scheme isn't defined in subtype.
-
 #define QUICK_TAP_TERM 0
 #define TAPPING_TERM 100
